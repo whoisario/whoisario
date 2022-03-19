@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aryan Thakur.
+- 👋 Hi, I’m Aryan.
 - 👀 I’m interested in Mobile Phones.
 - 🌱 I’m currently learning Bachelor of Computer Applications.
 - 📫 You may reach me at { aryanthakuronweb@gmail.com }.
